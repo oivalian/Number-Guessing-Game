@@ -1,0 +1,64 @@
+
+Creator: oivalian
+Year: 2023
+Version: v1.01
+Language: Python3
+
+| =-=-=-=-=-=-=-=   CHANGELOG    =-=-=-=-=-=-=-= |
+
+14 November 2023
+
+1 | Refactoring
+2 | Menu adjustments
+3 | Time adjustments
+4 | Bug fixes
+
+12 November 2023
+
+1 | Added Changelog.txt
+2 | Tweaked changelog file
+3 | Import changelog
+5 | Refactoring
+6 | Bug fixes in hard mode
+
+11 November 2023
+
+1 | Added basic splash screen
+2 | Tweaked menu
+3 | Added hard mode
+4 | Added credits page
+5 | Refactoring
+6 | Bug fixes in both modes
+
+10 November 2023
+
+1 | Tweaked menu options
+2 | Tweaked standard mode
+3 | Bug fixes
+
+9 November 2023
+
+1 | Added hard mode menu
+2 | Tweaked menu options
+3 | Fine-tuned standard mode
+4 | Restart considerations for standard mode
+5 | Bug fixes
+
+8 November 2023
+
+1 | Added main menu
+2 | Restructured standard mode
+3 | Consideration of additional mode
+4 | Bug fixes
+
+7 November 2023
+
+1 | Added levels 4 and 5
+2 | Fine tuned and tweaked options for levels 1 through 3
+3 | Considered adding menu
+4 | Bug fixes
+
+6 November 2023
+
+1 | Added first few levels
+2 | Bug fixes
